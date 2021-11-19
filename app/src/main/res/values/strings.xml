@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reloj</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="instrucciones">Presiona en la pantalla o en los botones para cambiar de imagen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="prueba">Prueba</string>
+    <string name="todo">TODO</string>
+    <string name="hora_default">12:00:00</string>
+    <string name="hora1">12hr</string>
+    <string name="hora2">24hr</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="horas">Horas</string>
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundos</string>
+
+</resources>
